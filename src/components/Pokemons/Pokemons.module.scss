@@ -1,0 +1,21 @@
+.wrapper {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  max-height: 850px;
+  overflow: auto;
+}
+
+.pagination {
+  margin: 20px auto;
+  width: fit-content;
+}
+
+.search {
+  margin-top: 10px;
+}
+
+.tags {
+  margin-top: 10px;
+}

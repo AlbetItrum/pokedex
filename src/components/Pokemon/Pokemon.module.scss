@@ -1,0 +1,26 @@
+.wrapper {
+  width: 29%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.space {
+  width: 100%;
+
+  div {
+    display: flex;
+  }
+}
+
+.name {
+  text-transform: capitalize;
+}
+
+.header {
+  gap: 10px;
+}
+
+.footer {
+  flex-direction: column;
+  text-transform: capitalize;
+}
